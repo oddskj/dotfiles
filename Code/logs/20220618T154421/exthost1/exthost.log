@@ -1,0 +1,31 @@
+[2022-06-18 15:44:23.692] [exthost] [info] Extension host with pid 12191 started
+[2022-06-18 15:44:23.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-18 15:44:23.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-18 15:44:23.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-18 15:44:23.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-18 15:44:23.915] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-18 15:44:23.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-18 15:44:24.028] [exthost] [info] Eager extensions activated
+[2022-06-18 15:44:24.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 15:44:24.050] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 15:44:24.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-06-18 15:44:56.295] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 15:44:57.233] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 15:55:12.542] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-18 15:55:12.555] [exthost] [info] Extension host with pid 12191 exiting with code 0
+[2022-06-18 15:55:14.007] [exthost] [info] Extension host with pid 14458 started
+[2022-06-18 15:55:14.007] [exthost] [info] Skipping acquiring lock for /home/oddskj/.config/Code/User/workspaceStorage/2db053e76dad95184003dae0a898f980.
+[2022-06-18 15:55:14.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-18 15:55:14.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-18 15:55:14.084] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-06-18 15:55:14.085] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-18 15:55:14.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-18 15:55:14.129] [exthost] [info] Eager extensions activated
+[2022-06-18 15:55:14.143] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 15:55:14.149] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 15:55:14.151] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 15:55:14.176] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 15:55:14.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-06-18 15:55:15.624] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-06-18 16:02:43.724] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-18 16:02:43.739] [exthost] [info] Extension host with pid 14458 exiting with code 0

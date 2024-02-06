@@ -1,0 +1,104 @@
+[2022-06-18 15:44:23.822] [sharedprocess] [info] Starting worker process with pid 12260 (type: fileWatcher, window: 1).
+[2022-06-18 15:44:53.381] [sharedprocess] [info] Getting Manifest... ms-vscode-remote.remote-containers
+[2022-06-18 15:44:53.514] [sharedprocess] [info] Getting Manifest... twxs.cmake
+[2022-06-18 15:44:53.516] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+[2022-06-18 15:44:53.520] [sharedprocess] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-06-18 15:44:53.523] [sharedprocess] [info] Getting Manifest... cschlosser.doxdocgen
+[2022-06-18 15:44:53.525] [sharedprocess] [info] Getting Manifest... ms-vscode-remote.remote-wsl
+[2022-06-18 15:44:53.527] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-themes
+[2022-06-18 15:44:53.529] [sharedprocess] [info] Getting Manifest... vsciot-vscode.vscode-arduino
+[2022-06-18 15:44:53.530] [sharedprocess] [info] Getting Manifest... platformio.platformio-ide
+[2022-06-18 15:44:53.532] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-06-18 15:44:53.535] [sharedprocess] [info] Getting Manifest... ms-vscode-remote.remote-ssh
+[2022-06-18 15:44:53.678] [sharedprocess] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-06-18 15:44:53.741] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-06-18 15:44:53.741] [sharedprocess] [info] Installing the extension without checking dependencies and pack jeff-hykin.better-cpp-syntax
+[2022-06-18 15:44:54.095] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2022-06-18 15:44:54.096] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-containers
+[2022-06-18 15:44:54.146] [sharedprocess] [info] Installing extension: twxs.cmake
+[2022-06-18 15:44:54.146] [sharedprocess] [info] Installing the extension without checking dependencies and pack twxs.cmake
+[2022-06-18 15:44:54.146] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2022-06-18 15:44:54.147] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh
+[2022-06-18 15:44:54.147] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-themes
+[2022-06-18 15:44:54.147] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-themes
+[2022-06-18 15:44:54.147] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2022-06-18 15:44:54.148] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-wsl
+[2022-06-18 15:44:54.148] [sharedprocess] [info] Installing extension: cschlosser.doxdocgen
+[2022-06-18 15:44:54.149] [sharedprocess] [info] Installing the extension without checking dependencies and pack cschlosser.doxdocgen
+[2022-06-18 15:44:54.150] [sharedprocess] [info] Installing extension: vsciot-vscode.vscode-arduino
+[2022-06-18 15:44:54.150] [sharedprocess] [info] Installing the extension without checking dependencies and pack vsciot-vscode.vscode-arduino
+[2022-06-18 15:44:54.151] [sharedprocess] [info] Installing extension: platformio.platformio-ide
+[2022-06-18 15:44:54.151] [sharedprocess] [info] Installing the extension without checking dependencies and pack platformio.platformio-ide
+[2022-06-18 15:44:54.189] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-06-18 15:44:54.190] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+[2022-06-18 15:44:54.191] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2022-06-18 15:44:54.191] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-extension-pack
+[2022-06-18 15:44:54.399] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2022-06-18 15:44:54.400] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.cmake-tools
+[2022-06-18 15:44:54.845] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/oddskj/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.18
+[2022-06-18 15:44:54.894] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.25d7f44c-6f44-4ece-a3a8-c3fd6b35d94b: jeff-hykin.better-cpp-syntax
+[2022-06-18 15:44:54.898] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.18
+[2022-06-18 15:44:54.900] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-06-18 15:44:54.902] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-06-18 15:44:55.559] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.238.2
+[2022-06-18 15:44:55.631] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.11.26
+[2022-06-18 15:44:55.644] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-0.82.1
+[2022-06-18 15:44:55.867] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.c2dc484f-e200-4490-9b8c-f927c237006b: ms-vscode.cmake-tools
+[2022-06-18 15:44:55.876] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-vscode.cmake-tools-1.11.26
+[2022-06-18 15:44:55.879] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-06-18 15:44:55.881] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-06-18 15:44:56.126] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.471af709-4b96-48e7-8a8e-0b8b4ace1a27: ms-vscode-remote.remote-ssh
+[2022-06-18 15:44:56.129] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-vscode-remote.remote-ssh-0.82.1
+[2022-06-18 15:44:56.132] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-ssh
+[2022-06-18 15:44:56.132] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+[2022-06-18 15:44:56.222] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.1ac3dc57-3a06-475e-a03d-df4f8237e91c: ms-vscode-remote.remote-containers
+[2022-06-18 15:44:56.227] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-vscode-remote.remote-containers-0.238.2
+[2022-06-18 15:44:56.228] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2022-06-18 15:44:56.229] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-containers
+[2022-06-18 15:44:56.613] [sharedprocess] [info] Downloaded extension: cschlosser.doxdocgen /home/oddskj/.config/Code/CachedExtensionVSIXs/cschlosser.doxdocgen-1.4.0
+[2022-06-18 15:44:56.645] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-themes /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-themes-1.0.0
+[2022-06-18 15:44:56.646] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.2.0
+[2022-06-18 15:44:56.647] [sharedprocess] [info] Downloaded extension: twxs.cmake /home/oddskj/.config/Code/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2022-06-18 15:44:56.664] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.70f63df8-dcb8-46c6-9a94-376799fb3d19: ms-vscode.cpptools-extension-pack
+[2022-06-18 15:44:56.668] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.2.0
+[2022-06-18 15:44:56.668] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.4dca7598-1c89-4338-8987-d937a993db4f: ms-vscode.cpptools-themes
+[2022-06-18 15:44:56.671] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2022-06-18 15:44:56.671] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
+[2022-06-18 15:44:56.674] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-vscode.cpptools-themes-1.0.0
+[2022-06-18 15:44:56.677] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-themes
+[2022-06-18 15:44:56.677] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2022-06-18 15:44:56.835] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-wsl /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-wsl-0.66.3
+[2022-06-18 15:44:56.913] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.b05c3a93-8931-4f3f-a0a4-0394b333c95e: twxs.cmake
+[2022-06-18 15:44:56.916] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/twxs.cmake-0.0.17
+[2022-06-18 15:44:56.918] [sharedprocess] [info] Extracting completed. twxs.cmake
+[2022-06-18 15:44:56.919] [sharedprocess] [info] Extension installed successfully: twxs.cmake
+[2022-06-18 15:44:57.136] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.31d02a47-98a0-46cf-9a8f-df086f848e47: ms-vscode-remote.remote-wsl
+[2022-06-18 15:44:57.139] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-vscode-remote.remote-wsl-0.66.3
+[2022-06-18 15:44:57.142] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-wsl
+[2022-06-18 15:44:57.143] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+[2022-06-18 15:44:57.461] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.22b40aae-0c1c-40a2-aac0-859676790e30: cschlosser.doxdocgen
+[2022-06-18 15:44:57.465] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/cschlosser.doxdocgen-1.4.0
+[2022-06-18 15:44:57.470] [sharedprocess] [info] Extracting completed. cschlosser.doxdocgen
+[2022-06-18 15:44:57.471] [sharedprocess] [info] Extension installed successfully: cschlosser.doxdocgen
+[2022-06-18 15:44:58.378] [sharedprocess] [info] Downloaded extension: platformio.platformio-ide /home/oddskj/.config/Code/CachedExtensionVSIXs/platformio.platformio-ide-2.4.3
+[2022-06-18 15:44:58.651] [sharedprocess] [info] Downloaded extension: vsciot-vscode.vscode-arduino /home/oddskj/.config/Code/CachedExtensionVSIXs/vsciot-vscode.vscode-arduino-0.4.12
+[2022-06-18 15:44:58.995] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.582f88ec-df7e-4873-bc4c-0062fa98f978: vsciot-vscode.vscode-arduino
+[2022-06-18 15:44:58.999] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/vsciot-vscode.vscode-arduino-0.4.12
+[2022-06-18 15:44:59.001] [sharedprocess] [info] Extracting completed. vsciot-vscode.vscode-arduino
+[2022-06-18 15:44:59.002] [sharedprocess] [info] Extension installed successfully: vsciot-vscode.vscode-arduino
+[2022-06-18 15:44:59.587] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.c2f8a4e2-4932-4218-9d5d-ca452d18b206: platformio.platformio-ide
+[2022-06-18 15:44:59.590] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/platformio.platformio-ide-2.4.3
+[2022-06-18 15:44:59.592] [sharedprocess] [info] Extracting completed. platformio.platformio-ide
+[2022-06-18 15:44:59.593] [sharedprocess] [info] Extension installed successfully: platformio.platformio-ide
+[2022-06-18 15:45:04.744] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.10.7-linux-x64
+[2022-06-18 15:45:07.258] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-06-18 15:45:07.273] [sharedprocess] [info] Extensions is already requested to install ms-vscode.cpptools
+[2022-06-18 15:45:07.702] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.d5ddea02-b0d6-4802-bae6-a6959c4fd8f9: ms-vscode.cpptools
+[2022-06-18 15:45:07.725] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-vscode.cpptools-1.10.7-linux-x64
+[2022-06-18 15:45:07.735] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-06-18 15:45:07.739] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-06-18 15:45:31.226] [sharedprocess] [info] Uninstalling extension: platformio.platformio-ide
+[2022-06-18 15:45:31.404] [sharedprocess] [info] Detected extension removed from another source platformio.platformio-ide
+[2022-06-18 15:45:31.655] [sharedprocess] [info] Successfully uninstalled extension: platformio.platformio-ide
+[2022-06-18 15:55:12.567] [sharedprocess] [info] Worker process with pid 12260 terminated normally (type: fileWatcher, window: 1).
+[2022-06-18 15:55:13.501] [sharedprocess] [info] Starting worker process with pid 14459 (type: fileWatcher, window: 1).

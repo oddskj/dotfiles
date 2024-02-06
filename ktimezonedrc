@@ -1,0 +1,4 @@
+[TimeZones]
+LocalZone=Europe/Oslo
+ZoneinfoDir=/etc/zoneinfo
+Zonetab=/etc/zoneinfo/zone.tab

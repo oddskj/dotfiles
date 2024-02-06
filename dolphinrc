@@ -1,0 +1,52 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[ExtractDialog]
+2 screens: Height=562
+2 screens: Width=1279
+DirHistory[$e]=$HOME/Downloads/
+
+[General]
+Version=202
+ViewPropsTimestamp=2022,6,12,14,15,32.055
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=610
+1920x1080 screen: Width=443
+2 screens: Height=461
+2 screens: Width=443
+DisplayPort-2 Height 1920x1080=486
+DisplayPort-2 Width 1920x1080=438
+eDP Height 1920x1080=458
+eDP Width 1920x1080=371
+
+[MainWindow]
+DP-3 Height 1827x1028=945
+DP-3 Width 1827x1028=908
+DisplayPort-2 Height 1920x1080=1024
+DisplayPort-2 Width 1920x1080=1900
+DisplayPort-2 XPosition 1920x1080=10
+DisplayPort-2 YPosition 1920x1080=46
+HDMI-A-0 Height 2560x1440=1384
+HDMI-A-0 Width 2560x1440=2540
+HDMI-A-0 XPosition 2560x1440=10
+HDMI-A-0 YPosition 2560x1440=46
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP Height 1536x864=819
+eDP Height 1920x1080=1024
+eDP Width 1536x864=1520
+eDP Width 1920x1080=945
+eDP XPosition 1536x864=8
+eDP XPosition 1920x1080=965
+eDP YPosition 1536x864=37
+eDP YPosition 1920x1080=46
+eDP-1 Height 1920x1080=1034
+eDP-1 Width 1920x1080=1910

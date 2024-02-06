@@ -1,0 +1,8 @@
+[FileDialogSize]
+eDP Height 1920x1080=600
+eDP Width 1920x1080=980
+
+[KFileDialog Settings]
+Recent Files[$e]=logins.csv,file:$HOME/Desktop/logins.csv
+Recent URLs[$e]=file:$HOME/Desktop/
+detailViewIconSize=16

@@ -1,0 +1,14 @@
+[2022-06-18T13:55:15.671Z] Log level: Info
+[2022-06-18T13:55:15.671Z] [info] Validating found git in: git
+[2022-06-18T13:55:15.696Z] [info] Using git 2.36.1 from git
+[2022-06-18T13:55:15.708Z] > git rev-parse --show-toplevel [2ms]
+[2022-06-18T13:55:15.719Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-06-18T13:55:15.723Z] [info] Open repository: /home/oddskj/Documents/GitHub/PythonTest
+[2022-06-18T13:55:15.779Z] > git status -z -uall [48ms]
+[2022-06-18T13:55:15.786Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-18T13:55:15.797Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-06-18T13:55:15.810Z] > git remote --verbose [2ms]
+[2022-06-18T13:55:15.810Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-06-18T13:55:15.818Z] > git config --get commit.template [1ms]
+[2022-06-18T13:55:16.250Z] > git check-ignore -v -z --stdin [7ms]
+[2022-06-18T13:55:22.096Z] > git check-ignore -v -z --stdin [5ms]

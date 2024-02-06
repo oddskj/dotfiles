@@ -1,0 +1,26 @@
+[Info  - 7:47:38 PM] (3725) Pylance language server 2022.6.20 (pyright 979d9c9e) starting
+[Info  - 7:47:38 PM] (3725) Server root directory: /home/oddskj/.vscode/extensions/ms-python.vscode-pylance-2022.6.20/dist
+Notebook support: Legacy
+[Info  - 7:47:38 PM] (3725) No configuration file found.
+[Info  - 7:47:38 PM] (3725) No pyproject.toml file found.
+[Info  - 7:47:38 PM] (3725) Setting pythonPath for service "PythonTest": "/bin/python"
+[Warn  - 7:47:38 PM] (3725) stubPath /home/oddskj/Documents/GitHub/PythonTest/typings is not a valid directory.
+[Info  - 7:47:38 PM] (3725) Assuming Python version 3.10
+[Info  - 7:47:38 PM] (3725) Assuming Python platform Linux
+[Info  - 7:47:38 PM] (3725) Searching for source files
+[Info  - 7:47:38 PM] (3725) Auto-excluding /home/oddskj/Documents/GitHub/PythonTest/Spenningsfall/0.0/venv
+[Info  - 7:47:38 PM] (3725) Auto-excluding /home/oddskj/Documents/GitHub/PythonTest/Spenningsfall/0.1/venv
+[Info  - 7:47:38 PM] (3725) Auto-excluding /home/oddskj/Documents/GitHub/PythonTest/Test/venv
+[Info  - 7:47:38 PM] (3725) Found 6 source files
+[Info  - 7:47:38 PM] (3725) Background analysis(1) root directory: /home/oddskj/.vscode/extensions/ms-python.vscode-pylance-2022.6.20/dist
+[Info  - 7:47:38 PM] (3725) Background analysis(1) started
+[Info  - 7:48:05 PM] (3725) Indexer background runner(2) root directory: /home/oddskj/.vscode/extensions/ms-python.vscode-pylance-2022.6.20/dist (index)
+[Info  - 7:48:05 PM] (3725) Indexing(2) started
+[Info  - 7:48:09 PM] (3725) [IDX(2)] Long operation: index execution environment /home/oddskj/Documents/GitHub/PythonTest (3670ms)
+[Info  - 7:48:09 PM] (3725) [IDX(2)] Long operation: index libraries /home/oddskj/Documents/GitHub/PythonTest (4324ms)
+[Info  - 7:48:09 PM] (3725) Indexer done(2). indexed 579 files
+[Info  - 5:59:41 PM] (3725) Indexer background runner(3) root directory: /home/oddskj/.vscode/extensions/ms-python.vscode-pylance-2022.6.20/dist (refresh)
+[Info  - 5:59:41 PM] (3725) Indexing(3) started
+[Info  - 5:59:44 PM] (3725) [IDX(3)] Long operation: index execution environment /home/oddskj/Documents/GitHub/PythonTest (2404ms)
+[Info  - 5:59:44 PM] (3725) [IDX(3)] Long operation: index libraries /home/oddskj/Documents/GitHub/PythonTest (2883ms)
+[Info  - 5:59:44 PM] (3725) Indexer done(3). indexed 580 files

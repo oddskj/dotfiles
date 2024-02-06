@@ -1,0 +1,23 @@
+[2022-06-19T17:46:39.083Z] Log level: Info
+[2022-06-19T17:46:39.084Z] [info] Validating found git in: git
+[2022-06-19T17:46:39.120Z] [info] Using git 2.36.1 from git
+[2022-06-19T17:46:39.165Z] > git rev-parse --show-toplevel [33ms]
+[2022-06-19T17:46:39.257Z] > git rev-parse --git-dir --git-common-dir [81ms]
+[2022-06-19T17:46:39.263Z] [info] Open repository: /home/oddskj/Documents/GitHub/PythonTest
+[2022-06-19T17:46:39.355Z] > git status -z -uall [82ms]
+[2022-06-19T17:46:39.364Z] > git symbolic-ref --short HEAD [4ms]
+[2022-06-19T17:46:39.397Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [26ms]
+[2022-06-19T17:46:39.426Z] > git remote --verbose [19ms]
+[2022-06-19T17:46:39.426Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+[2022-06-19T17:46:39.451Z] > git config --get commit.template [14ms]
+[2022-06-19T17:46:39.879Z] > git check-ignore -v -z --stdin [7ms]
+[2022-06-19T17:48:03.110Z] > git check-ignore -v -z --stdin [5ms]
+[2022-06-19T17:48:05.755Z] > git show --textconv :kivy_test/kivy_test.py [123ms]
+[2022-06-19T17:48:05.760Z] > git ls-files --stage -- /home/oddskj/Documents/GitHub/PythonTest/kivy_test/kivy_test.py [121ms]
+[2022-06-19T17:48:05.784Z] > git cat-file -s 5e8c41789f13108fc5a365a3961d32f110bb8088 [15ms]
+[2022-06-19T17:48:07.072Z] > git show --textconv :kivy_test/Height2.py [9ms]
+[2022-06-19T17:48:07.074Z] > git ls-files --stage -- /home/oddskj/Documents/GitHub/PythonTest/kivy_test/Height2.py [3ms]
+[2022-06-19T17:48:07.084Z] > git cat-file -s 19f0f2d8e7403a092c6feccc681e3a52c9757555 [1ms]
+[2022-06-19T18:58:47.290Z] > git show --textconv :kivy_test/kivy_test.py [18ms]
+[2022-06-19T18:58:47.292Z] > git ls-files --stage -- /home/oddskj/Documents/GitHub/PythonTest/kivy_test/kivy_test.py [8ms]
+[2022-06-19T18:58:47.303Z] > git cat-file -s 5e8c41789f13108fc5a365a3961d32f110bb8088 [2ms]

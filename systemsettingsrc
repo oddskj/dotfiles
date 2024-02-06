@@ -1,0 +1,60 @@
+[KFileDialog Settings]
+Recent Files[$e]=profile-8.ovpn,file:$HOME/Fedora2.conf,file:$HOME/Fedora.conf,file:$HOME/configs/Fedora.conf,file:$HOME/configs/oddskj.conf,file:$HOME/Downloads/profile-8.ovpn
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/configs/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[MainWindow]
+1536x864 screen: Height=700
+1536x864 screen: Width=1020
+1536x864 screen: Window-Maximized=true
+1536x864 screen: XPosition=252
+1536x864 screen: YPosition=70
+1920x1080 screen: Height=1014
+1920x1080 screen: Width=1916
+1920x1080 screen: XPosition=2
+1920x1080 screen: YPosition=64
+2 screens: Height=1014
+2 screens: Width=1916
+2 screens: XPosition=1922
+2 screens: YPosition=64
+2560x1440 screen: Height=1374
+2560x1440 screen: Width=2556
+2560x1440 screen: XPosition=2
+2560x1440 screen: YPosition=64
+DP-3=DP-3
+DP-3 Height 1827x1028=953
+DP-3 Width 1827x1028=1817
+DP-3 eDP-1=DP-3
+DP-4=DP-4
+DP-4 eDP-1=eDP-1
+DisplayPort-2 Height 1920x1080=1024
+DisplayPort-2 Width 1920x1080=1900
+DisplayPort-2 XPosition 1920x1080=10
+DisplayPort-2 YPosition 1920x1080=46
+HDMI-1 eDP-1=eDP-1
+HDMI-A-0 Height 2560x1440=1384
+HDMI-A-0 Width 2560x1440=2540
+HDMI-A-0 XPosition 2560x1440=10
+HDMI-A-0 YPosition 2560x1440=46
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB3wAAAP2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP Height 1536x864=819
+eDP Height 1920x1080=1024
+eDP Width 1536x864=1520
+eDP Width 1920x1080=1900
+eDP XPosition 1536x864=8
+eDP XPosition 1920x1080=10
+eDP YPosition 1536x864=37
+eDP YPosition 1920x1080=46
+eDP-1=eDP-1
+eDP-1 Height 1920x1080=1005
+eDP-1 Width 1920x1080=1910
+eDP-1 Window-Maximized 1920x1080=true
+
+[Open-with settings]
+CompletionMode=1
+History=fire,ala
+
+[UiSettings]
+ColorScheme=Default

@@ -1,0 +1,175 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ActivateBookmarksToolWindow">
+      <i c="4" l="1706373894771" />
+    </e>
+    <e n="ActivateCommitToolWindow">
+      <i c="2" l="1705188910042" />
+    </e>
+    <e n="ActivateDebugToolWindow">
+      <i c="6" l="1706373899993" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="6" l="1706373896626" />
+    </e>
+    <e n="ActivateProblemsViewToolWindow">
+      <i c="4" l="1706373901666" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="37" l="1706374970119" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="4" l="1706373898066" />
+    </e>
+    <e n="ActivateServicesToolWindow">
+      <i c="2" l="1705188907766" />
+    </e>
+    <e n="ActivateStructureToolWindow">
+      <i c="6" l="1706373903834" />
+    </e>
+    <e n="ActivateVersionControlToolWindow">
+      <i c="2" l="1705188908983" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="5" l="1706374796024" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="232" l="1706375385360" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="9" l="1706375264646" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="46" l="1706375694320" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1687291600767" />
+    </e>
+    <e n="EditorDelete">
+      <i c="397" l="1706374780065" />
+    </e>
+    <e n="EditorDown">
+      <i c="52" l="1706375265575" />
+    </e>
+    <e n="EditorEnter">
+      <i c="18" l="1706374496547" />
+    </e>
+    <e n="EditorEscape">
+      <i c="19" l="1706375458312" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1687291603810" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1706374640553" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1705242906976" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1705184973947" />
+    </e>
+    <e n="EditorUp">
+      <i c="5" l="1706374544020" />
+    </e>
+    <e n="Educational.CompareWithAnswer">
+      <i c="1" l="1705185683224" />
+    </e>
+    <e n="Educational.NextTask">
+      <i c="39" l="1706375723304" />
+    </e>
+    <e n="HideActiveWindow">
+      <i c="26" l="1706375720488" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="2" l="1705179673539" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1661250095136" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1661250188662" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1661250163286" />
+    </e>
+    <e n="ProblemsView.QuickFixes">
+      <i c="1" l="1706375657202" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1655561423522" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1705184977199" />
+    </e>
+    <e n="Run">
+      <i c="32" l="1706375714087" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="11" l="1705230958488" />
+    </e>
+    <e n="ShowSettings">
+      <i c="12" l="1705230960334" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1655561289813" />
+    </e>
+    <e n="ZoomOutIdeAction">
+      <i c="3" l="1705190012819" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="2" l="1705190145261" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.PluginsTab$3$1">
+      <i c="1" l="1705188449245" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1705188699542" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1706374672743" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="1572" l="1706375704768" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="3" l="1706375636764" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1661250077006" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1687292050959" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="17" l="1706375255100" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1705179680924" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="1" l="1687220933169" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="6" l="1706375581117" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="6" l="1705230942519" />
+    </e>
+    <e n="com.jetbrains.edu.learning.actions.CheckAction">
+      <i c="36" l="1706375721897" />
+    </e>
+    <e n="com.jetbrains.edu.learning.taskDescription.ui.TaskDescriptionToolWindowFactory$AdjustFontSize">
+      <i c="2" l="1705230943483" />
+    </e>
+    <e n="com.jetbrains.python.packaging.ui.PyInstalledPackagesPanel$2">
+      <i c="1" l="1687291799048" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="1" l="1687291807489" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$SwitchToSdkAction">
+      <i c="1" l="1705179439883" />
+    </e>
+  </component>
+</application>

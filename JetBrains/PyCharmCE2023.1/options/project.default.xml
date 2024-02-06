@@ -1,0 +1,34 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Python)" project-jdk-type="Python SDK" />
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "/nix/store/9r6a0s3kzwckby84zq4drkdpc6gl1lvg-system-path/bin/python3",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+      <component name="PyPackaging">
+        <option name="earlyReleasesAsUpgrades" value="true" />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="739" y="282" width="554" height="480" key="FileChooserDialogImpl" timestamp="1687291601771">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="739" y="282" width="554" height="480" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1687291601771" />
+        <state x="554" y="188" width="804" height="673" key="PythonInterpreterConfigurable.size" timestamp="1687291606398">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="554" y="188" width="804" height="673" key="PythonInterpreterConfigurable.size/0.0.1920.1080" timestamp="1687291606398" />
+        <state x="456" y="162" key="SettingsEditor" timestamp="1687221025417">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="456" y="162" key="SettingsEditor.ideScale=125" timestamp="1687291841888">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="456" y="162" key="SettingsEditor.ideScale=125/0.0.1920.1080" timestamp="1687291841888" />
+        <state x="456" y="162" key="SettingsEditor/0.0.1920.1080" timestamp="1687221025417" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

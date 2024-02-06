@@ -1,0 +1,59 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="1bMEooLDhEbyi9pTcXBuOzvls6O">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DkjrP2EEzneSX4gvE7BNVReqRK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="13.6" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "NextRunPlatformUpdateBuild": "PC-222.3739.56/2022.2.1",
+    "NextRunPlatformUpdateVersion": "2022.2.1",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "PC-221.6008.17-2750c1a93d21a2f80b9d0164b6bb3a9b39ec3e3a409d50b6b7d764bbc3894cd5",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PC-221.6008.17",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "11",
+    "fileTypeChangedCounter": "2",
+    "gotit.previous.run": "PC-221.6008.17",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/oddskj/Documents/GitHub/PythonTest",
+    "registry.to.advanced.settings.migration.build": "PC-221.6008.17",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/oddskj/Documents/GitHub/Codewars",
+      "/home/oddskj/Documents/GitHub/PythonTest"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

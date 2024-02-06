@@ -1,0 +1,33 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1834" height="551" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1834" height="551" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1834" height="551" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1834" height="551" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@144dpi" width="1818" height="286" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@144dpi" width="1818" height="286" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@144dpi" width="1818" height="286" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@144dpi" width="1818" height="286" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@168dpi" width="1800" height="278" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@168dpi" width="1800" height="278" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@168dpi" width="1800" height="278" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@168dpi" width="1800" height="278" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080@120dpi" width="1834" height="294" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080@120dpi" width="1834" height="294" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080@120dpi" width="1834" height="294" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080@120dpi" width="1834" height="294" />
+  </component>
+  <component name="WindowManager">
+    <frame x="1920" y="40" width="1920" height="1040" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="960" y="527" width="1920" height="1055" key="WELCOME_SCREEN" timestamp="1687291544091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="480" y="527" width="960" height="1055" key="WELCOME_SCREEN.ideScale=125" timestamp="1687291889054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="480" y="527" width="960" height="1055" key="WELCOME_SCREEN.ideScale=125/0.0.1920.1080" timestamp="1687291889054" />
+    <state x="960" y="527" width="1920" height="1055" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1687291544091" />
+  </component>
+</application>

@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="6" l="1661250098992" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1661250357046" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1661250208526" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1661250095136" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1661250188662" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1661250163286" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1655561423522" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1655660776133" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="2" l="1655660763300" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1655660765842" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1655561289813" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1661250182801" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1661250077006" />
+    </e>
+  </component>
+</application>

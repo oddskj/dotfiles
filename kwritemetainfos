@@ -1,0 +1,23 @@
+[file:///home/oddskj/Desktop/logins.csv]
+Bookmarks=
+Checksum=df71a3528587c7af4dc84a6c75e8ee1eb8f7deb0
+Encoding=UTF-8
+Highlighting=CSV
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=CSV
+Mode Set By User=false
+Time=2023,11,12,14,16,43.007
+URL=file:///home/oddskj/Desktop/logins.csv
+
+[file:///nix/store/k5cdjw4wv5jf2kw13ha84ch96gh77aas-kwin-5.27.5/share/systemd/user/plasma-kwin_x11.service]
+Bookmarks=
+Checksum=ce995b5410420e7639cdf9097c04dd3c8199fd73
+Encoding=UTF-8
+Highlighting=systemd unit
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=systemd unit
+Mode Set By User=false
+Time=2023,11,12,14,27,6.414
+URL=file:///nix/store/k5cdjw4wv5jf2kw13ha84ch96gh77aas-kwin-5.27.5/share/systemd/user/plasma-kwin_x11.service

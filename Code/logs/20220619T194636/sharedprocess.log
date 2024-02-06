@@ -1,0 +1,91 @@
+[2022-06-19 19:46:39.100] [sharedprocess] [info] Starting worker process with pid 3495 (type: fileWatcher, window: 1).
+[2022-06-19 19:46:39.270] [sharedprocess] [info] Deleted from disk platformio.platformio-ide /home/oddskj/.vscode/extensions/platformio.platformio-ide-2.4.3
+[2022-06-19 19:46:56.300] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-06-19 19:46:56.308] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-06-19 19:46:56.793] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-06-19 19:46:57.874] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-06-19 19:46:58.622] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-06-19 19:46:59.252] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-19 19:46:59.968] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-06-19 19:46:59.969] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-06-19 19:46:59.969] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-06-19 19:46:59.969] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-06-19 19:47:03.115] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.8
+[2022-06-19 19:47:03.392] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.b1ba757c-841c-445c-ac09-41cb7b1438c0: ms-toolsai.jupyter-renderers
+[2022-06-19 19:47:03.403] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.8
+[2022-06-19 19:47:03.404] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-06-19 19:47:04.088] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-06-19 19:47:04.099] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.93fb6659-9dde-4081-b92e-223f7e330855: ms-toolsai.jupyter-keymap
+[2022-06-19 19:47:04.103] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-06-19 19:47:04.105] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-06-19 19:47:06.365] [sharedprocess] [info] Getting Manifest... donjayamanne.python-extension-pack
+[2022-06-19 19:47:06.382] [sharedprocess] [info] Installing extension: donjayamanne.python-extension-pack
+[2022-06-19 19:47:07.461] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-06-19 19:47:08.047] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-06-19 19:47:08.053] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-19 19:47:08.059] [sharedprocess] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-06-19 19:47:10.128] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.5.1001601848
+[2022-06-19 19:47:10.697] [sharedprocess] [info] Getting Manifest... batisteo.vscode-django
+[2022-06-19 19:47:10.811] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.4a62a3bd-7406-479e-a04b-4b5baeeba607: ms-toolsai.jupyter
+[2022-06-19 19:47:10.819] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-toolsai.jupyter-2022.5.1001601848
+[2022-06-19 19:47:10.836] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-06-19 19:47:11.701] [sharedprocess] [info] Getting Manifest... wholroyd.jinja
+[2022-06-19 19:47:11.726] [sharedprocess] [info] Downloaded extension: ms-python.python /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.8.0
+[2022-06-19 19:47:12.311] [sharedprocess] [info] Getting Manifest... njpwerner.autodocstring
+[2022-06-19 19:47:12.976] [sharedprocess] [info] Getting Manifest... kevinrose.vsc-python-indent
+[2022-06-19 19:47:13.693] [sharedprocess] [info] Getting Manifest... donjayamanne.python-environment-manager
+[2022-06-19 19:47:14.014] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.05141ea1-e067-465e-87df-5e3383437bce: ms-python.python
+[2022-06-19 19:47:14.028] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-python.python-2022.8.0
+[2022-06-19 19:47:14.033] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-06-19 19:47:14.370] [sharedprocess] [info] Extension is already requested to install ms-python.vscode-pylance
+[2022-06-19 19:47:14.370] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2022-06-19 19:47:14.370] [sharedprocess] [info] Installing extension: batisteo.vscode-django
+[2022-06-19 19:47:14.371] [sharedprocess] [info] Installing extension: wholroyd.jinja
+[2022-06-19 19:47:14.371] [sharedprocess] [info] Installing extension: njpwerner.autodocstring
+[2022-06-19 19:47:14.371] [sharedprocess] [info] Installing extension: kevinrose.vsc-python-indent
+[2022-06-19 19:47:14.372] [sharedprocess] [info] Installing extension: donjayamanne.python-environment-manager
+[2022-06-19 19:47:18.371] [sharedprocess] [info] Downloaded extension: kevinrose.vsc-python-indent /home/oddskj/.config/Code/CachedExtensionVSIXs/kevinrose.vsc-python-indent-1.16.0
+[2022-06-19 19:47:18.413] [sharedprocess] [info] Downloaded extension: batisteo.vscode-django /home/oddskj/.config/Code/CachedExtensionVSIXs/batisteo.vscode-django-1.10.0
+[2022-06-19 19:47:18.421] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.3f7a6bd8-0c20-446d-be3c-3db9c51a6da5: kevinrose.vsc-python-indent
+[2022-06-19 19:47:18.426] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/kevinrose.vsc-python-indent-1.16.0
+[2022-06-19 19:47:18.429] [sharedprocess] [info] Extracting completed. kevinrose.vsc-python-indent
+[2022-06-19 19:47:18.533] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.f16685f7-7399-40fa-9cae-ee68e811a2a7: batisteo.vscode-django
+[2022-06-19 19:47:18.540] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/batisteo.vscode-django-1.10.0
+[2022-06-19 19:47:18.542] [sharedprocess] [info] Extracting completed. batisteo.vscode-django
+[2022-06-19 19:47:18.653] [sharedprocess] [info] Downloaded extension: njpwerner.autodocstring /home/oddskj/.config/Code/CachedExtensionVSIXs/njpwerner.autodocstring-0.6.1
+[2022-06-19 19:47:18.656] [sharedprocess] [info] Downloaded extension: wholroyd.jinja /home/oddskj/.config/Code/CachedExtensionVSIXs/wholroyd.jinja-0.0.8
+[2022-06-19 19:47:18.676] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.953aae7d-cc0f-454c-9c31-dfb9b87bc1ef: wholroyd.jinja
+[2022-06-19 19:47:18.681] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/wholroyd.jinja-0.0.8
+[2022-06-19 19:47:18.682] [sharedprocess] [info] Extracting completed. wholroyd.jinja
+[2022-06-19 19:47:18.815] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.62c16537-7bb1-4aeb-9c62-37ecac2e2fbc: njpwerner.autodocstring
+[2022-06-19 19:47:18.819] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/njpwerner.autodocstring-0.6.1
+[2022-06-19 19:47:18.820] [sharedprocess] [info] Extracting completed. njpwerner.autodocstring
+[2022-06-19 19:47:28.692] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/oddskj/.config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.21
+[2022-06-19 19:47:29.193] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.d0bdd65f-f5fd-42a0-820d-10338733b325: visualstudioexptteam.vscodeintellicode
+[2022-06-19 19:47:29.198] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.21
+[2022-06-19 19:47:29.200] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-06-19 19:47:29.823] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/oddskj/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.6.20
+[2022-06-19 19:47:30.833] [sharedprocess] [info] Downloaded extension: donjayamanne.python-environment-manager /home/oddskj/.config/Code/CachedExtensionVSIXs/donjayamanne.python-environment-manager-1.0.4
+[2022-06-19 19:47:33.656] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.eb0b6445-c077-41cf-8884-60cf359b8f4b: donjayamanne.python-environment-manager
+[2022-06-19 19:47:33.670] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/donjayamanne.python-environment-manager-1.0.4
+[2022-06-19 19:47:33.679] [sharedprocess] [info] Extracting completed. donjayamanne.python-environment-manager
+[2022-06-19 19:47:34.795] [sharedprocess] [info] Downloaded extension: donjayamanne.python-extension-pack /home/oddskj/.config/Code/CachedExtensionVSIXs/donjayamanne.python-extension-pack-1.7.0
+[2022-06-19 19:47:34.805] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.bc12589d-5d76-4302-86ec-d521a5675429: donjayamanne.python-extension-pack
+[2022-06-19 19:47:34.809] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/donjayamanne.python-extension-pack-1.7.0
+[2022-06-19 19:47:34.813] [sharedprocess] [info] Extracting completed. donjayamanne.python-extension-pack
+[2022-06-19 19:47:34.814] [sharedprocess] [info] Extension installed successfully: kevinrose.vsc-python-indent
+[2022-06-19 19:47:34.815] [sharedprocess] [info] Extension installed successfully: batisteo.vscode-django
+[2022-06-19 19:47:34.815] [sharedprocess] [info] Extension installed successfully: wholroyd.jinja
+[2022-06-19 19:47:34.815] [sharedprocess] [info] Extension installed successfully: njpwerner.autodocstring
+[2022-06-19 19:47:34.815] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2022-06-19 19:47:34.815] [sharedprocess] [info] Extension installed successfully: donjayamanne.python-environment-manager
+[2022-06-19 19:47:34.815] [sharedprocess] [info] Extension installed successfully: donjayamanne.python-extension-pack
+[2022-06-19 19:47:35.303] [sharedprocess] [info] Extracted extension to /home/oddskj/.vscode/extensions/.4419d756-b50a-4590-8744-1088c01afdc2: ms-python.vscode-pylance
+[2022-06-19 19:47:35.326] [sharedprocess] [info] Renamed to /home/oddskj/.vscode/extensions/ms-python.vscode-pylance-2022.6.20
+[2022-06-19 19:47:35.328] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-06-19 19:47:35.333] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-06-19 19:47:35.333] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-06-19 19:47:35.333] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-06-19 19:47:35.333] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-06-19 19:47:35.333] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-06-20 14:20:04.169] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}

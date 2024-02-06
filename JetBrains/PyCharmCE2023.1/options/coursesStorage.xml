@@ -1,0 +1,17 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="description" value="&lt;p&gt;This is an introductory Python course by JetBrains Academy. The presented materials are based on the official &lt;a href=&quot;https://docs.python.org/3/&quot;&gt;Python Documentation&lt;/a&gt;. The target audience are the people with little or no experience in programming who would like to start learning Python.&lt;/p&gt;&#10;&lt;p&gt;In this course, you will learn about the basics, such as variables and operations with them, strings and other data structures, boolean operators, conditions, control flow, and so on. You will try implementing loops, functions, and classes, as well as using parts of your code as imported modules, and working with text files.&lt;/p&gt;&#10;&lt;p&gt;Have fun and good luck!&lt;/p&gt;&#10;&lt;p&gt;P.S. Want to contribute? Feel free to send a pull request to this course’s &lt;a href=&quot;https://github.com/jetbrains-academy/introduction_to_python&quot;&gt;git repo&lt;/a&gt;.&lt;/p&gt;" />
+        <option name="environment" value="unittest" />
+        <option name="id" value="16630" />
+        <option name="location" value="$USER_HOME$/PycharmProjects/Introduction to Python" />
+        <option name="name" value="Introduction to Python" />
+        <option name="programmingLanguage" value="Python" />
+        <option name="tasksSolved" value="39" />
+        <option name="tasksTotal" value="82" />
+        <option name="type" value="Marketplace" />
+      </course>
+    </courses>
+  </component>
+</application>

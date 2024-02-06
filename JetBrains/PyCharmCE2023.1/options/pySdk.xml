@@ -1,0 +1,6 @@
+<application>
+  <component name="PySdkSettings">
+    <option name="PREFERRED_VIRTUALENV_BASE_PATH" value="$USER_HOME$" />
+    <option name="PREFERRED_VIRTUALENV_BASE_SDK" value="/nix/store/9r6a0s3kzwckby84zq4drkdpc6gl1lvg-system-path/bin/python3" />
+  </component>
+</application>

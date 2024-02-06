@@ -1,0 +1,192 @@
+<application>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/PycharmProjects/Introduction to Python">
+      <jump line="8" column="6" filename="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Dictionary keys() and values()/dict_key_value.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Dictionary keys/dict_keys.py" />
+      <jump line="4" column="2" filename="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Dictionary keys/dict_keys.py" />
+      <jump line="5" column="3" filename="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Dictionary keys/dict_keys.py" />
+      <jump line="18" column="21" filename="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Dictionaries/dicts.py" />
+      <jump line="6" column="6" filename="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/In keyword/in_keyword.py" />
+      <jump line="7" column="28" filename="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/In keyword/in_keyword.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/In keyword/in_keyword.py" />
+      <jump line="5" column="6" filename="$USER_HOME$/PycharmProjects/Introduction to Python/Condition expressions/Boolean operators/boolean_operators.py" />
+      <jump line="7" column="6" filename="$USER_HOME$/PycharmProjects/Introduction to Python/Condition expressions/Boolean operators order/boolean_order.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/Introduction to Python/Condition expressions/If statement/if_statement.py" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Strings/String formatting/string_formatting.py" timestamp="1705187799025">
+        <mark key="&quot;" line="4" column="29" />
+        <mark key="[" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Tuples/tuples.py" timestamp="1705189904806">
+        <mark key="&quot;" line="6" column="23" />
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Add Items from lists/lists_to_dict.py" timestamp="1706374682696">
+        <mark key="&quot;" line="5" column="46" />
+        <mark key="y" line="5" column="4" />
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="46" />
+        <mark key="^" line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Nested Lists/task.py" timestamp="1705189727476">
+        <mark key="&quot;" line="3" column="14" />
+        <mark key="y" line="2" column="6" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Dictionaries/dicts.py" timestamp="1706375107280">
+        <mark key="&quot;" line="18" column="21" />
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Dictionary keys/dict_keys.py" timestamp="1706375107273">
+        <mark key="&quot;" line="6" column="30" />
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="30" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Strings/String length/len_function.py" timestamp="1705187421516">
+        <mark key="&quot;" line="6" column="21" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Dictionary keys() and values()/dict_key_value.py" timestamp="1706374819195">
+        <mark key="&quot;" line="8" column="24" />
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Strings/In operator/in_operator.py" timestamp="1705187197308">
+        <mark key="&quot;" line="3" column="30" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Strings/Character escaping/character_escaping.py" timestamp="1705187605978">
+        <mark key="&quot;" line="3" column="39" />
+        <mark key="[" line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Lists operations/list_operations.py" timestamp="1705189180911">
+        <mark key="&quot;" line="9" column="9" />
+        <mark key="[" line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Lists introduction/lists.py" timestamp="1705188864348">
+        <mark key="&quot;" line="3" column="16" />
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Condition expressions/Boolean operators/boolean_operators.py" timestamp="1706375406555">
+        <mark key="&quot;" line="5" column="33" />
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Strings/F-strings/f_strings.py" timestamp="1705188161071">
+        <mark key="&quot;" line="2" column="58" />
+        <mark key="[" line="2" column="59" />
+        <mark key="]" line="2" column="59" />
+        <mark key="." line="2" column="58" />
+        <mark key="^" line="2" column="59" />
+      </file>
+      <file name="/" timestamp="1705234738292">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/List items/list_items.py" timestamp="1705189570813">
+        <mark key="&quot;" line="10" column="32" />
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/In keyword/in_keyword.py" timestamp="1706375281842">
+        <mark key="&quot;" line="7" column="36" />
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Condition expressions/Boolean operators order/boolean_order.py" timestamp="1706375723306">
+        <mark key="&quot;" line="7" column="48" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Strings/Basic string methods/string_methods.py" timestamp="1705187692380">
+        <mark key="&quot;" line="5" column="26" />
+        <mark key="[" line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Introduction to Python/Data structures/Join method/join_method.py" timestamp="1705190440593">
+        <mark key="&quot;" line="2" column="29" />
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="30" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="CHARACTER_WISE">
+        <text encoding="base64">ICAgIGxpc3Rfb2Zfa2V5c1t4XSA9IGxpc3Rfb2ZfdmFsdWVzW3hdCg==</text>
+      </register>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">Jz8/Pyc=</text>
+      </register>
+      <register name="2" type="CHARACTER_WISE">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="3" type="CHARACTER_WISE">
+        <text encoding="base64">IyBBZGQgSmFyZWQncyBudW1iZXIgdG8gdGhlIHBob25lIGJvb2sK</text>
+      </register>
+      <register name="4" type="CHARACTER_WISE">
+        <text encoding="base64">YW5pbWFsc1sxOjNdID0gImVsZXBoYW50Igo=</text>
+      </register>
+      <register name="5" type="CHARACTER_WISE">
+        <text encoding="base64">IyBNYWtlIGFsbCBhbmltYWxzIGVsZXBoYW50cyBieSByZXBsYWNpbmcgdGhlIGxhc3QgdHdvIGl0ZW1zLgo=</text>
+      </register>
+      <register name="6" type="CHARACTER_WISE">
+        <text encoding="base64">aW50KCkK</text>
+      </register>
+      <register name="7" type="CHARACTER_WISE">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
+      </register>
+      <register name="8" type="CHARACTER_WISE">
+        <text encoding="base64">ICAgICMgV3JpdGUgeW91ciBzb2x1dGlvbiBoZXJlCg==</text>
+      </register>
+      <register name="9" type="CHARACTER_WISE">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">Jz8/Pyc=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">bmFtZSA9PSAiImdqb0pob25oIGFuZCBhZ2UgPD49IDE2</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

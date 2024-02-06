@@ -1,0 +1,24 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+1920x1080 screen: XPosition=384
+1920x1080 screen: YPosition=208
+DP-3=DP-3
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAABeAAACjvwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAAAuAAACjgAAAQ4BAAACAAAEIQAAAo4AAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP Height 1536x864=819
+eDP Width 1536x864=1520
+eDP XPosition 1536x864=8
+eDP YPosition 1536x864=37
+
+[Recent Files]
+File1[$e]=$HOME/Documents/GitHub/PythonTest/kivy.pdf
+File2[$e]=$HOME/.config/alacritty/alacritty.yml
+Name1[$e]=kivy.pdf
+Name2[$e]=alacritty.yml
